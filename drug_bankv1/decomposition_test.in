@@ -1,0 +1,3 @@
+LIGAND drug_bankv1/drug_bank_structures_filtered.sdf
+OUTPUT drug_bankv1/drug_bank_output_filtered.sdf
+FRAGMENT drug_bankv1/drug_bank_fragment_filterd.sdf
